@@ -1,0 +1,15 @@
+C:\Users\zhdanovы\Desktop\final_test\shortened_array_program\bin\Debug\net6.0\shortened_array_program.exe
+C:\Users\zhdanovы\Desktop\final_test\shortened_array_program\bin\Debug\net6.0\shortened_array_program.deps.json
+C:\Users\zhdanovы\Desktop\final_test\shortened_array_program\bin\Debug\net6.0\shortened_array_program.runtimeconfig.json
+C:\Users\zhdanovы\Desktop\final_test\shortened_array_program\bin\Debug\net6.0\shortened_array_program.dll
+C:\Users\zhdanovы\Desktop\final_test\shortened_array_program\bin\Debug\net6.0\shortened_array_program.pdb
+C:\Users\zhdanovы\Desktop\final_test\shortened_array_program\obj\Debug\net6.0\shortened_array_program.csproj.AssemblyReference.cache
+C:\Users\zhdanovы\Desktop\final_test\shortened_array_program\obj\Debug\net6.0\shortened_array_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhdanovы\Desktop\final_test\shortened_array_program\obj\Debug\net6.0\shortened_array_program.AssemblyInfoInputs.cache
+C:\Users\zhdanovы\Desktop\final_test\shortened_array_program\obj\Debug\net6.0\shortened_array_program.AssemblyInfo.cs
+C:\Users\zhdanovы\Desktop\final_test\shortened_array_program\obj\Debug\net6.0\shortened_array_program.csproj.CoreCompileInputs.cache
+C:\Users\zhdanovы\Desktop\final_test\shortened_array_program\obj\Debug\net6.0\shortened_array_program.dll
+C:\Users\zhdanovы\Desktop\final_test\shortened_array_program\obj\Debug\net6.0\refint\shortened_array_program.dll
+C:\Users\zhdanovы\Desktop\final_test\shortened_array_program\obj\Debug\net6.0\shortened_array_program.pdb
+C:\Users\zhdanovы\Desktop\final_test\shortened_array_program\obj\Debug\net6.0\shortened_array_program.genruntimeconfig.cache
+C:\Users\zhdanovы\Desktop\final_test\shortened_array_program\obj\Debug\net6.0\ref\shortened_array_program.dll
